@@ -1,5 +1,8 @@
 some text
 OMG NEW TEXT OMGGGG //new commit mb?
+
+MASTER CHANGES
+
 SECOND(Third) Commit for quest
 ...
 ...
